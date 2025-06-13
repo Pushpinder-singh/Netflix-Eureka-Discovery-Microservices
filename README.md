@@ -3,6 +3,8 @@ In this project Spring boot microservices register them with an Eureka server, a
 
 **Tech Stack**
 - JDK 21
+- Sprint Boot 3.5.0
+- Spring Cloud OpenFeign 4.0.6
 - Maven or Gradle
 
 **Dependencies**
